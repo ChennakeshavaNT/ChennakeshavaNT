@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Chennakeshava NT
 
-A Undergraduate Student at K.S.Institute of Technology pursuing my Bachelor's Degree in Computer Science Engineering. I am a hard-working, detail-oriented student with an interest in Data Science, Cross-Platform Mobile App Development, and Web Development. I have experience in Cross-Platform Mobile App Development and Web Development. I have served as a peer trainer for Android App Development Workshop.I'm an Explorer and a Learnaholic who has spent the last 3 years in learning Cross-Platform App development and Web development, I keep trying out new things which has lead me in the path of Data Science. I am currently working on gaining knowledge on Data Science and Python Programming Language.
-<!--
-**ChennakeshavaNT/ChennakeshavaNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Undergraduate Student at K.S.Institute of Technology pursuing my Bachelor's Degree in Computer Science Engineering. I am a hard-working, detail-oriented student. I have experience in Cross-Platform Mobile App Development and Web Development. I have served as a peer trainer for Android App Development Workshop.I'm an Explorer and a Learnaholic who has spent the last 3 years in learning Cross-Platform App development and Web development, I keep trying out new things which has lead me in the path of Data Science. I am currently working on gaining knowledge on Data Science and Python Programming Language.
 
 Here are some ideas to get you started:
 
@@ -14,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
