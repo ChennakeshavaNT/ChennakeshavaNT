@@ -14,6 +14,7 @@ A Undergraduate Student at K.S.Institute of Technology pursuing my Bachelor's De
 
 <img align="center" alt="Chennakeshava NT GitHub Status" src="https://github-readme-status.vercel.app/api?username=ChennakeshavaNT&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChennakeshavaNT&layout=compact)](https://github.com/ChennakeshavaNT/github-readme-stats)
 ---
 #### Connect with Me:
 <!--[<img src="git/gmail.png" height="45px" width="auto" alt="Gmail ID"/>](chennakeshavant@gmail.com)        [<img src="git/linkedin.png" height="50px" width="auto" alt="LinkedIn"/>](https://www.linkedin.com/in/chennakeshavant/)    [<img src="git/instagram.png" height="50px" width="auto" alt="Instagram"/>]()-->
