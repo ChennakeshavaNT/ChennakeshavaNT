@@ -12,12 +12,12 @@ A Undergraduate Student at K.S.Institute of Technology pursuing my Bachelor's De
 <img src="git/python.jpg" height="50px" width="auto" alt="python"/>      <img src="git/mysql.jpg" height="50px" width="auto" alt="SQL"/>      <img src="git/jupyter.png" height="50px" width="auto" alt="Jupyter"/>      <img src="git/aws.png" height="40px" width="auto" alt="AWS"/>     <!-- <img src="git/R.jpg" height="50px" width="auto" alt="R"/> -->    <img src="git/git.png" height="40px" width="auto" alt="Git"/>    <img src="git/html5.png" height="50px" width="auto" alt="HTML5"/>    <img src="git/css3.png" height="50px" width="auto" alt="CSS3"/>    <img src="git/JS.png" height="50px" width="auto" alt="JavaScript"/>    <img src="git/bootstrap.jpg" height="50px" width="auto" alt="Bootstrap4"/><!--<img src="git/react.png" height="50px" width="auto" alt="React.JS"/><img src="git/php.png" height="50px" width="60" alt="PHP"/> --><img src="git/opencv.png" height="50px" width="auto" alt="OpenCV"/>
 ---
 
-#### Activity Status
+#### Activity Status:
 
 <img align="left" alt="Chennakeshava NT GitHub Status" src="https://github-readme-status.vercel.app/api?username=ChennakeshavaNT&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChennakeshavaNT&layout=compact)](https://github.com/ChennakeshavaNT/github-readme-stats)
----
+<br/>
 #### Connect with Me:
 <!--[<img src="git/gmail.png" height="45px" width="auto" alt="Gmail ID"/>](chennakeshavant@gmail.com)        [<img src="git/linkedin.png" height="50px" width="auto" alt="LinkedIn"/>](https://www.linkedin.com/in/chennakeshavant/)    [<img src="git/instagram.png" height="50px" width="auto" alt="Instagram"/>]()-->
 1. Mail me at - Chennakeshavant@gmail.com
