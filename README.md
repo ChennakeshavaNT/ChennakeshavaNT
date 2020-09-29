@@ -7,7 +7,7 @@ A Undergraduate Student at K.S.Institute of Technology pursuing my Bachelor's De
 - 👯 I’m looking to collaborate on ... Projects that let me increase my experience in Data Science
 - 🤔 I’m looking for help with ... **Machine Learning**
 - 💬 Talk to me about ... Movies, Memes, Multiplier Games, Hackathons, Community Meet-Ups and Conferences
-
+---
 #### My Skills:
 <img src="git/python.jpg" height="50px" width="auto" alt="python"/>      <img src="git/mysql.jpg" height="50px" width="auto" alt="SQL"/>      <img src="git/jupyter.png" height="50px" width="auto" alt="Jupyter"/>      <img src="git/aws.png" height="40px" width="auto" alt="AWS"/>     <!-- <img src="git/R.jpg" height="50px" width="auto" alt="R"/> -->    <img src="git/git.png" height="40px" width="auto" alt="Git"/>    <img src="git/html5.png" height="50px" width="auto" alt="HTML5"/>    <img src="git/css3.png" height="50px" width="auto" alt="CSS3"/>    <img src="git/JS.png" height="50px" width="auto" alt="JavaScript"/>    <img src="git/bootstrap.jpg" height="50px" width="auto" alt="Bootstrap4"/><!--<img src="git/react.png" height="50px" width="auto" alt="React.JS"/><img src="git/php.png" height="50px" width="60" alt="PHP"/> --><img src="git/opencv.png" height="50px" width="auto" alt="OpenCV"/>
 ---
