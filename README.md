@@ -14,7 +14,8 @@ A <img src="git/design.png" align="right" height="200px" width="auto" />Undergra
 
 #### Activity Status:
 
-<img align="left" alt="Chennakeshava NT GitHub Status" height="auto" width="500px" src="https://github-readme-status.vercel.app/api?username=ChennakeshavaNT&show_icons=true&hide_border=true" />
+
+[![Chennakeshava NT's github stats](https://github-readme-stats.vercel.app/api?username=ChennakeshavaNT&theme=dark&show_icons=true&count_private=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChennakeshavaNT&layout=compact)](https://github.com/ChennakeshavaNT/github-readme-stats)
 <br/>
